@@ -8,4 +8,6 @@ echo '<br />Jaka¶ zmiana <br/>';
 echo 'Jeszcze jedno zdanie';
 echo '<br />';
 echo 'Zmiana w ostatnim zdaniu raz jeszcze';
+echo '<br />';
+echo 'Ostatnia linijka';
 ?>
