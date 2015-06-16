@@ -1,3 +1,4 @@
 <?php
-echo 'nic istotnego';
+echo 'nic istotnego<br/>';
+echo 'kolejna zmiana.'
 ?>
