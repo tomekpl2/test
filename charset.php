@@ -5,5 +5,5 @@ echo 'Kolejne zdanie.';
 echo '<br/>';
 echo 'Dodanie kolejnego zdania. skjdlkdsfjsfdlk';
 echo '<br />';
-echo 'Zmiana w ostatnim zdaniu';
+echo 'Zmiana w ostatnim zdaniu raz jeszcze';
 ?>
