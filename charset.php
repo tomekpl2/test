@@ -4,6 +4,6 @@ echo '<br />';
 echo 'Kolejne zdanie.';
 echo '<br/>';
 echo 'Dodanie kolejnego zdania. skjdlkdsfjsfdlk';
-echo '<br />';
+echo '<br />Jaka¶ zmiana <br/>';
 echo 'Jeszcze jedno zdanie';
 ?>
