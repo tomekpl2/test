@@ -6,4 +6,6 @@ echo '<br/>';
 echo 'Dodanie kolejnego zdania. skjdlkdsfjsfdlk';
 echo '<br />';
 echo 'Zmiana w ostatnim zdaniu raz jeszcze';
+echo '<br />';
+echo 'Ostatnia linijka';
 ?>
